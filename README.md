@@ -6,7 +6,7 @@ Este e-book curto explica para leigos como é o processo de impressão 3D do in�
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)** para geração do conteúdo;
 - IA Generativa **[Leonardo AI](https://leonardo.ai)** para criar a arte visual do e-book;
-- IA Generativa **[Copilot]([https://leonardo.ai](https://copilot.microsoft.com/images/create?FORM=GENILP#))** para criar a arte visual do e-book;
+- IA Generativa **[Copilot](https://copilot.microsoft.com/images/create?FORM=GENILP#)** para criar a arte visual do e-book;
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
