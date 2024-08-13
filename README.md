@@ -1,4 +1,4 @@
-# A Jornada da IA: Um Passeio pelo Futuro 🌌
+# Impressão 3D para iniciantes: Processo de impressão
 
 ## 📒 Descrição
 Este e-book curto explica para leigos como é o processo de impressão 3D do início ao fim.
@@ -9,7 +9,7 @@ Este e-book curto explica para leigos como é o processo de impressão 3D do in�
 - Ferramenta **Libre Office** para edição.
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. Por outro lado, o "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Libre Office, por ser uma ferramenta open-source para edição de texto.
+Utilizei o "ChatGPT" para traçar uma linha de pesquisa geral do processo de impressão 3D para iniciantes e refinei e revisei o conteúdo gerado. Usei "Leonardo AI" para gerar imagens para o e-book. A montagem do ebook foi feita utilizando os conteúdos gerados e revisados no impress, ferramenta de apresentação de slides do Libre Office.
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
