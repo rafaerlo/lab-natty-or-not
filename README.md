@@ -15,4 +15,4 @@ Utilizei o "ChatGPT" para traçar uma linha de pesquisa geral do processo de imp
 ## 🚀 Resultados
 O e-book apresenta um conteúdo simplificado e prático sobre o processo de impressão 3D do início ao fim.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/rafaerlo/lab-natty-or-not/blob/main/Impress%C3%A3o%203D%20para%20iniciantes.pdf)
